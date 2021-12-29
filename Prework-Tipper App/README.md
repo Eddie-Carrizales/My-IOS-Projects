@@ -42,7 +42,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough/Demo of the App:
 
-[](https://imgur.com/ed7AkAX)
+![](https://github.com/Eddie-Carrizales/CodePath-IOS/blob/main/Prework-Tipper%20App/Tipper.gif)
 
 GIF created with https://imgur.com
 

@@ -19,7 +19,7 @@ Theater is an app that allows users to browse movies from the [The Movie Databas
 
 ### App Walkthrough GIF
 
-![](https://github.com/Eddie-Carrizales/My-IOS-Projects/blob/main/Theater%20App/Theater.gif)
+<img src="https://recordit.co/RkZ7thhgfz" width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.

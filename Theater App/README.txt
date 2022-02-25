@@ -21,8 +21,6 @@ Theater is an app that allows users to browse movies from the [The Movie Databas
 
 ![](https://github.com/Eddie-Carrizales/My-IOS-Projects/blob/main/Theater%20App/Theater.gif)
 
-GIF created with https://imgur.com
-
 ### Notes
 Describe any challenges encountered while building the app.
 The only challenge encountered while building the app was an issue with an outlet that was changed. This kept crashing the app after running it in Xcode. However, this was an easy fix as I noticed that it appeard connected yet there was no code for it on the View Controller. Thus, I removed the connection and the app kept running flawlessly. 

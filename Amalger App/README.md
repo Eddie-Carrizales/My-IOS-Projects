@@ -1,8 +1,8 @@
-# Project 3 - *Name of App Here*
+# Project 3 - Amalger
 
-**Name of your app** is a basic twitter app to read your tweets.
+Amalger is a basic twitter app to read your tweets.
 
-Time spent: **X** hours spent in total
+Time spent: **8** hours spent in total
 
 ## User Stories
 
@@ -23,5 +23,6 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/ZDA1Hgk' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+Link to Walkthrough:
+https://imgur.com/a/ZDA1Hgk
 

@@ -39,10 +39,6 @@ A challenge I faced while building the app was getting the right number of poste
 - [ ] (2pt) User can view the app on various device sizes and orientations.
 - [✅] (1pt) Run your app on a real device.
 
-### App Walkthrough GIF
-
-![](https://github.com/Eddie-Carrizales/My-IOS-Projects/blob/main/Theater%20App/Theater.gif)
-
 ### Notes
 Describe any challenges encountered while building the app.
 The only challenge encountered while building the app was an issue with an outlet that was changed. This kept crashing the app after running it in Xcode. However, this was an easy fix as I noticed that it appeard connected yet there was no code for it on the View Controller. Thus, I removed the connection and the app kept running flawlessly. 

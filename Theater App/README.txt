@@ -18,7 +18,10 @@ Theater is an app that allows users to browse movies from the [The Movie Databas
 
 ### App Walkthrough GIF
 
-Link : http://g.recordit.co/WlRtdTQIqi.gif
+Here's a walkthrough of implemented user stories:
+
+<img src='http://g.recordit.co/WlRtdTQIqi.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
 ### Notes
 Describe any challenges encountered while building the app.

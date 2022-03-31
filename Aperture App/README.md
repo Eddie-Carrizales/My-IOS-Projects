@@ -22,7 +22,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://g.recordit.co/BRZihmxGhM.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+Link to walkthrough of Part II : http://g.recordit.co/BRZihmxGhM.gif
 
 # Aperture - Part I
 

@@ -1,7 +1,7 @@
 
 # Theater App
 
-Theater is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
+Theater is an app similar to Flix that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 ---
 
 ## Theater Part 2

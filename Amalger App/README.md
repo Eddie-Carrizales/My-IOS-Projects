@@ -1,7 +1,7 @@
 
 # Project 3 - Amalger - Part II
 
-Amalger is a basic twitter app to view, compose, favorite, and retweet tweets.
+Amalger is a basic twitter clone app to view, compose, favorite, and retweet tweets.
 
 Time spent: **6** hours spent in total
 
